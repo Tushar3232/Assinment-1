@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+/* Nav styles */
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 1600px;
+    height: 100px;
+    padding: 24px 160px 24px 160px;
+    background-color:#F5F5F5 ;
+}
+nav h2{
+    width: 222px;
+    height: 38px;
+    font-size: 32px;
+    font-weight:700;
+    color: #0E0E0E;
+
+
+}
+nav button {
+    width: 166px;
+    height: 52px;
+    padding: 15px 30px 15px 30px;
+    border-color: #006A50;
+    border-radius: 8px;
+
+}
+nav button a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    color: #006A50;
+    
+}
