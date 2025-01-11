@@ -38,3 +38,129 @@ nav button a {
     color: #006A50;
     
 }
+/*Main style */
+main{
+    max-width: 1280px;
+    margin: 0px auto;
+
+}
+
+.style-1{
+    width: 622px;
+    height: 325px;
+
+}
+.section-1{
+    height: 560px;
+    padding: 80px 100px 80px 100px;
+    background-color: #C6E4D6;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.style-1 h4{
+    font-weight: 500;
+    font-size: 24px;
+    height: 29px;
+    color: #0E0E0E;
+    opacity: 0.5;
+    
+
+}
+.style-1 h3{
+    height: 201px;
+    font-weight: bold;
+    font-size: 56px;
+    color: #0E0E0E;
+    margin-top: 16px;
+
+}
+.style-1 button{
+    width: 270px;
+    height: 56px;
+    padding: 17px 34px 17px 34px;
+    border-radius: 8px;
+    color:#FFFFFF;
+    background-color: #006A50;
+    border: none;
+    margin-top: 24px;
+    font-weight:600;
+    font-size: 16px;
+    display: inline
+
+}
+.banner-pic{
+    width: 474px;
+    height: 400px;
+}
+
+/* Seaction 2 */
+
+.section-2 h3{
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+
+}
+.section-2 p{
+    margin-top: 24px;
+    columns:#0E0E0E ;
+    opacity: 0.7;
+    
+}
+
+.div-1{
+    width: 410px;
+    height: 325px;
+    background-color:#548ff521;
+    padding: 32px;
+    border-radius: 16px;
+    margin: 32px 24px 32px 0px;
+    
+}
+.div-pic{
+    margin: 32px 314px 24px 32px;
+   
+}
+.div-1 h3{
+    width: 346px;
+    height: 24px;
+    font-weight: bold;
+    font-size: 20px;
+    color: #0e0e0ee0;
+    margin: 0px 32px 0px 32px;
+
+    
+}
+.div-1 p{
+    width: 346px;
+    height: 72px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    color: #0e0e0e;
+    opacity: 0.7;
+    margin: 12px 32px 24px 32px;
+
+}
+
+.div-1 button {
+    width: 122px;
+    height: 41px;
+    border: 48px;
+    padding: 11px 20px 11px 20px;
+    margin: 24px 256px 32px 32px;
+    background-color:#5490F5;
+    border-radius: 8px;
+
+
+}
+.div-1 button a{
+    text-decoration: none;
+    font-weight:600;
+    font-size: 15px;
+    color: #FFFFFF;
+
+
+}
